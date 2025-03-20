@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/shopsphere/static/css/main.8023f729.css",
+    "main.js": "/shopsphere/static/js/main.706b70cb.js",
+    "static/js/453.b244479c.chunk.js": "/shopsphere/static/js/453.b244479c.chunk.js",
+    "static/media/shirt.png": "/shopsphere/static/media/shirt.2158cfde59d98537adbe.png",
+    "static/media/shirt2.png": "/shopsphere/static/media/shirt2.5204a164260500adea6d.png",
+    "static/media/sale.png": "/shopsphere/static/media/sale.ecfbab5a8b97625004e4.png",
+    "static/media/women.png": "/shopsphere/static/media/women.ccbd1ee558b6d1abf993.png",
+    "static/media/shopping.png": "/shopsphere/static/media/shopping.bbf8dff247db375fb6c4.png",
+    "static/media/4547829.jpg": "/shopsphere/static/media/4547829.9fc5da88987c04416535.jpg",
+    "static/media/shirt3.png": "/shopsphere/static/media/shirt3.7f145304848763ce4ee4.png",
+    "static/media/dark-mode-button.png": "/shopsphere/static/media/dark-mode-button.c5b620c1550b3c201b56.png",
+    "static/media/light-mode-button.png": "/shopsphere/static/media/light-mode-button.9ed4504ff522dfde699a.png",
+    "static/media/women3.jpg": "/shopsphere/static/media/women3.d4ee3d6adcf98524fedb.jpg",
+    "static/media/women4.jpg": "/shopsphere/static/media/women4.de4d6fb7a9937264471c.jpg",
+    "static/media/women2.jpg": "/shopsphere/static/media/women2.b095b5ece1ec61c6769b.jpg",
+    "static/media/slick.svg": "/shopsphere/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/shopsphere/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/shopsphere/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/shopsphere/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/shopsphere/index.html",
+    "main.8023f729.css.map": "/shopsphere/static/css/main.8023f729.css.map",
+    "main.706b70cb.js.map": "/shopsphere/static/js/main.706b70cb.js.map",
+    "453.b244479c.chunk.js.map": "/shopsphere/static/js/453.b244479c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8023f729.css",
+    "static/js/main.706b70cb.js"
+  ]
+}
